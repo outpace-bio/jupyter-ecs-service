@@ -15,7 +15,7 @@ Recently, I started to work on a new project and found the need to deploy Jupyte
 The main idea is to use serverless services in order to remove the need from managing servers.
 This architecture is using EFS as a shared, persistent storage for storing the Jupyter notebooks.
 
-![Jupyter on ECS Architecture](architecture.png "Jupyter on ECS Architecture")
+![Jupyter on ECS Architecture](docs/architecture.png "Jupyter on ECS Architecture")
 
 ## Usage
 
